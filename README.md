@@ -10,25 +10,25 @@ Aplicar técnicas de análisis de datos y algoritmos de *machine learning* super
 
 ---
 
-## 📂 Datasets utilizados
+## Datasets utilizados
 
 Los siguientes datasets han sido seleccionados por su relevancia y riqueza de información:
 
 1. **NYPD Complaint Data Historic**  
    Datos históricos de quejas registradas por la Policía de Nueva York.  
-   📎 [Enlace al dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i/about_data)
+    [Enlace al dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i/about_data)
 
 2. **New York City Leading Causes of Death**  
    Principales causas de muerte en NYC desde 2007, por sexo y etnicidad.  
-   📎 [Enlace al dataset](https://data.cityofnewyork.us/Health/New-York-City-Leading-Causes-of-Death/jb7j-dtam/about_data)
+    [Enlace al dataset](https://data.cityofnewyork.us/Health/New-York-City-Leading-Causes-of-Death/jb7j-dtam/about_data)
 
 3. **NYPD Arrest Data (Year to Date)**  
    Datos de arrestos realizados por la policía durante el año en curso.  
-   📎 [Enlace al dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc/about_data)
+    [Enlace al dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc/about_data)
 
 ---
 
-## 🛠️ Tecnologías y herramientas (POR EDITAR)
+##  Tecnologías y herramientas (POR EDITAR)
 
 - Python 3.11+
 - Jupyter Notebook
@@ -39,7 +39,7 @@ Los siguientes datasets han sido seleccionados por su relevancia y riqueza de in
 
 ---
 
-## 📈 Análisis y metodología (REVISAR)
+## Análisis y metodología (REVISAR)
 
 - Limpieza y preprocesamiento de los datos.
 - Exploración y visualización de variables clave.
