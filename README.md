@@ -18,11 +18,11 @@ Los siguientes datasets han sido seleccionados por su relevancia y riqueza de in
    Datos históricos de quejas registradas por la Policía de Nueva York.  
     [Enlace al dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i/about_data)
 
-2. **New York City Leading Causes of Death**  
-   Principales causas de muerte en NYC desde 2007, por sexo y etnicidad.  
-    [Enlace al dataset](https://data.cityofnewyork.us/Health/New-York-City-Leading-Causes-of-Death/jb7j-dtam/about_data)
+2. **Neighborhood Financial Health Digital Mapping and Data Tool**
+financial health indicator data for every neighborhood in New York City.
+[Enlace al dataset](https://data.cityofnewyork.us/Business/Neighborhood-Financial-Health-Digital-Mapping-and-/r3dx-pew9/about_data)
 
-3. **NYPD Arrest Data (Year to Date)**  
+4. **NYPD Arrest Data (Year to Date)**  
    Datos de arrestos realizados por la policía durante el año en curso.  
     [Enlace al dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc/about_data)
 
