@@ -19,7 +19,7 @@ Los siguientes datasets han sido seleccionados por su relevancia y riqueza de in
     [Enlace al dataset](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i/about_data)
 
 2. **Neighborhood Financial Health Digital Mapping and Data Tool**
-financial health indicator data for every neighborhood in New York City.
+Datos sobre indicadores de salud financiera para cada vecindario de la ciudad de Nueva York.
 [Enlace al dataset](https://data.cityofnewyork.us/Business/Neighborhood-Financial-Health-Digital-Mapping-and-/r3dx-pew9/about_data)
 
 4. **NYPD Arrest Data (Year to Date)**  
